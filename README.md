@@ -1,9 +1,9 @@
-# awesome-eating
+# Awesome-eating
 There are a great good deal of delicious snacks all over the world. Some snacks are very famous. But some snacks are little known. This repository is aimed to collect delicious and special snacks from all over the world ! To satisfy the strong desire of eating for every single foodies.
 
 Your contributions are always welcome!
 
-# eating !
+# Just eating !
 - Name: Kunban(捆粄)
 - location: Fengshun(county), Meizhou(city), Guangdong(province), China
 - Picture：<img src="imgs/kunban2.jpg" height="200"><img src="imgs/kunban3.jpg" height="200">
