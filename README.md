@@ -12,6 +12,11 @@ Your contributions are always welcome!
 - Name: Kunban(菜粄)
 - location: Fengshun(county), Meizhou(city), Guangdong(province), China
 - Picture：<img src="imgs/caiban.jpg" height="200"><img src="imgs/caiban2.jpg" height="200">
+  
+---
+- Name: Poyou Dougan(婆油豆干)
+- location: Fengshun(county), Meizhou(city), Guangdong(province), China
+- Picture：<img src="imgs/poyou-dougan.jpg" height="200"><img src="imgs/poyou-dougan.jpg" height="200">
 
 # Contributing
 Welcome to contribute! You can open [**a new issue**](https://github.com/jockerxlj/awesome-eating/issues/new) or **launch a pull resquest** to show your local delicious snacks.
