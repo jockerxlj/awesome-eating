@@ -14,6 +14,6 @@ Your contributions are always welcome!
 - Picture：<img src="imgs/caiban.jpg" height="200"><img src="imgs/caiban2.jpg" height="200">
 
 # Contributing
-Welcome to contribute! You can open **a new issue** or **launch a pull resquest** to show your local delicious snacks.
+Welcome to contribute! You can open [**a new issue**](https://github.com/jockerxlj/awesome-eating/issues/new) or **launch a pull resquest** to show your local delicious snacks.
 
 欢迎全世界的吃货前来完善哈！
