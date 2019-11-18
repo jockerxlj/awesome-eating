@@ -1,5 +1,5 @@
 # awesome-eating
-There are many delicious snacks all over the world. Some snacks are very famous. But some snacks are little known. This repository is aimed to collect delicious and special snacks from all over the world ! To satisfy the strong desire from every foodies.
+There are many delicious snacks all over the world. Some snacks are very famous. But some snacks are little known. This repository is aimed to collect delicious and special snacks from all over the world ! To satisfy the strong desire for every single foodies.
 
 Your contributions are always welcome!
 
