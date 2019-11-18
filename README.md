@@ -6,7 +6,7 @@ Your contributions are always welcome!
 # eating !
 - Name: Kunban(捆粄)
 - location: Fengshun(county), Meizhou(city), Guangdong(province), China
-- Picture：<img src="imgs/kunban3.jpg" height="200"><img src="imgs/kunban2.jpg" height="200">
+- Picture：<img src="imgs/kunban2.jpg" height="200"><img src="imgs/kunban3.jpg" height="200">
 
 ---
 - Name: Kunban(菜粄)
