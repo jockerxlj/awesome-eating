@@ -16,7 +16,7 @@ Your contributions are always welcome!
 ---
 - Name: Poyou Dougan(婆油豆干)
 - location: Fengshun(county), Meizhou(city), Guangdong(province), China
-- Picture：<img src="imgs/poyou-dougan.jpg" height="200"><img src="imgs/poyou-dougan.jpg" height="200">
+- Picture：<img src="imgs/poyou-dougan.jpg" height="200"><img src="imgs/poyou-dougan2.jpg" height="200">
 
 ---
 - Name: Taoban(桃粄)
