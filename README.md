@@ -1,15 +1,15 @@
-# awesome-eating
-There are many delicious snacks all over the world. Some snacks are very famous. But some snacks are little known. This repository is aimed to collect delicious and special snacks from all over the world ! To satisfy the strong desire from every foodies.
+# Awesome-eating
+There are a great good deal of delicious snacks all over the world. Some snacks are very famous. But some snacks are little known. This repository is aimed to collect delicious and special snacks from all over the world ! To satisfy the strong desire of eating for every single foodies.
 
 Your contributions are always welcome!
 
-# eating !
+# Just eating !
 - Name: Kunban(捆粄)
 - location: Fengshun(county), Meizhou(city), Guangdong(province), China
-- Picture：<img src="imgs/kunban.jpg" height="200"><img src="imgs/kunban2.jpg" height="200">
+- Picture：<img src="imgs/kunban2.jpg" height="200"><img src="imgs/kunban3.jpg" height="200">
 
 ---
-- Name: Kunban(菜粄)
+- Name: Caiban(菜粄)
 - location: Fengshun(county), Meizhou(city), Guangdong(province), China
 - Picture：<img src="imgs/caiban.jpg" height="200"><img src="imgs/caiban2.jpg" height="200">
   
@@ -24,7 +24,7 @@ Your contributions are always welcome!
 - Picture：<img src="imgs/taoban.jpg" height="200"><img src="imgs/taoban2.jpg" height="200">
 
 ---
-- Name: Taoban(碗子粄)
+- Name: Wanziban(碗子粄)
 - location: Fengshun(county), Meizhou(city), Guangdong(province), China
 - Picture：<img src="imgs/wanziban.jpg" height="200"><img src="imgs/wanziban2.jpg" height="200">
 
