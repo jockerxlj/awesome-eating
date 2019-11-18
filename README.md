@@ -16,4 +16,4 @@ Your contributions are always welcome!
 # Contributing
 Welcome to contribute! You can open **a new issue** or **launch a pull resquest** to show your local delicious snacks.
 
-欢迎全世界的吃货前来建言献策哈！
+欢迎全世界的吃货前来完善哈！
