@@ -30,5 +30,3 @@ Your contributions are always welcome!
 
 # Contributing
 Welcome to contribute! You can open [**a new issue**](https://github.com/jockerxlj/awesome-eating/issues/new) or **launch a pull resquest** to show your local delicious snacks.
-
-欢迎全世界的吃货前来完善哈！
